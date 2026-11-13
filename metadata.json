@@ -1,0 +1,6 @@
+{
+  "name": "SeqLab Genomics — DNA Feature & ML Workbench",
+  "description": "Interactive bioinformatics laboratory for DNA sequence feature extraction, machine learning classification, and research report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
